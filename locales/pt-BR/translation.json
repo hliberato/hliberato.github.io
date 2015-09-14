@@ -1,0 +1,15 @@
+{
+  "app": {
+    "name" : "i18next"
+  }
+  ,"button" : {
+    "en" : "Inglês"
+    ,"pt" : "Português"
+    ,"titleEN" : "Inglês"
+    ,"titlePT" : "Português"
+  }
+  ,"content": {
+    "info": "Minhas",
+    "info2" : "Informações Pessoais"
+  }
+}
