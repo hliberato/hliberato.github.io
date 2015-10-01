@@ -807,9 +807,33 @@
     	<i class="fa fa-arrow-up"></i>
     </a>
 
-    <button id="btn-en" title="" style="position: absolute; top: 0; right: 130px; border: 0; z-index: 10;" data-i18n="button.en;[title]button.titleEN"></button>
-    <button id="btn-pt" title="" style="position: absolute; top: 0; right: 50px; border: 0; z-index: 10;" data-i18n="button.pt;[title]button.titlePT"></button>
+    <div class="language-square">
+    	<button type="button" class="language-button us-button" id="btn-en"></button>
+    	<button type="button" class="language-button br-button" id="btn-pt"></button>
+    </div>
 
+    <style>
+	    .language-square{
+	    	right: 130px;
+	    	position: absolute;
+    		top: 0;
+    		z-index: 10;
+	    }
+	    .language-button{
+	    	color: white;
+	    	font-weight: bold;
+	    	background-repeat: no-repeat;
+		    background-size: 100% 100%;
+		    height: 20px;
+		    width: 36px;
+	    }
+    	.br-button {
+		    background-image: url(content/brasil.png);
+		}
+		.us-button {
+		    background-image: url(content/usa.png);
+		}
+    </style>
 
     <!-- /// jQuery ////////  -->
 	<script src="layout/js/jquery-2.1.0.min.js"></script>
