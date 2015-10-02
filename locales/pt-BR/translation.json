@@ -1,20 +1,34 @@
 {
   "app": {
     "name" : "i18next"
-  }
-  ,"button" : {
+  },
+  "button" : {
     "en" : "Inglês"
     ,"pt" : "Português"
     ,"titleEN" : "Inglês"
     ,"titlePT" : "Português"
-  }
-  ,"content": {
+  },
+  "content": {
     "main":"prazer, Henrique :)",
-    "main2":"desenvolvedor, frelancer, fã de opensource",
-
-
-
-    "info": "Minhas",
-    "info2" : "Informações Pessoais"
+    "main2":"desenvolvedor, frelancer, fã de opensource"
+  },
+  "menu":{
+    "home":"Início",
+    "aboutme":"Sobre mim",
+    "qualification":"Formação",
+    "experiences":"Experiências",
+    "skills":"Destrezas",
+    "contact":"Contato"
+  },
+  "title":{
+    "aboutme" : "Informações Pessoais",
+    "aboutme2": "Minhas",
+    "qualification":"Formação",
+    "qualification2":"Minha",
+    "experiences":"Experiências Profisionais",
+    "experiences2":"Minhas",
+    "skills":"Conhecimentos e Destrezas",
+    "skills2":"Meus",
+    "contact":"Onde me encontrar"
   }
 }
