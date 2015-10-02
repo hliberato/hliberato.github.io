@@ -8,7 +8,7 @@
     ,"titleEN" : "English"
     ,"titlePT" : "Portuguese"
   },
-  "content": {
+  "home": {
     "main":"hi, i'm Henrique :)",
     "main2":"developer, frelancer, opensource fan"
   },
@@ -30,5 +30,22 @@
     "skills":"Knowledge and skills",
     "skills2":"My",
     "contact":"Get in touch"
+  },
+    "month":{
+    "currently":"currently",
+    "january":"january",
+    "may":"may",
+    "july":"july",
+    "august":"august",
+    "september":"september",
+    "october":"october",
+    "december":"december"
+  },
+  "aboutme":{
+    "born":"Born on November 25, 1989",
+    "from":"From São José dos Campos, São Paulo",
+    "phone":"Phone +55 12 98888 8384",
+    "profile":"Profile",
+    "profile2":"Louco por tecnologia, desde pequeno decidi que iria 'mexer com computador'. Cursei técnico em manutenção, mas ainda não era o que queria. Então na faculdade fui apresentado às linguagens de programação, manipulação de dados e a comunidade open-source, onde encontrei minha vocação!"
   }
 }

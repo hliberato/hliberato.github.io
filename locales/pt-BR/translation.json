@@ -8,7 +8,7 @@
     ,"titleEN" : "Inglês"
     ,"titlePT" : "Português"
   },
-  "content": {
+  "home": {
     "main":"prazer, Henrique :)",
     "main2":"desenvolvedor, frelancer, fã de opensource"
   },
@@ -30,5 +30,22 @@
     "skills":"Conhecimentos e Destrezas",
     "skills2":"Meus",
     "contact":"Onde me encontrar"
+  },
+  "month":{
+    "currently":"Atualmente",
+    "january":"janeiro",
+    "may":"maio",
+    "july":"julho",
+    "august":"agosto",
+    "september":"setembro",
+    "october":"outubro",
+    "december":"dezembro"
+  },
+  "aboutme":{
+    "born":"Nascido dia 25 de novembro de 1989",
+    "from":"Natural de São José dos Campos, São Paulo",
+    "phone":"Celular 12 98888 8384",
+    "profile":"Perfil",
+    "profile2":"Louco por tecnologia, desde pequeno decidi que iria 'mexer com computador'. Cursei técnico em manutenção, mas ainda não era o que queria. Então na faculdade fui apresentado às linguagens de programação, manipulação de dados e a comunidade open-source, onde encontrei minha vocação!"
   }
 }
